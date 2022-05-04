@@ -255,7 +255,7 @@ export default {
           ClashR: "clashr",
           Surge2: "surge&ver=2",
         },
-        backendOptions: [{ value: "https://rough-feather-76b4.loyou23.workers.dev/sub?" }],
+        backendOptions: [{ value: "https://li.loyou23.workers.dev/sub?" }],
         remoteConfig: [
         {
             label: "ACL4SSR",

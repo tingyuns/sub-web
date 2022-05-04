@@ -256,6 +256,7 @@ export default {
           Surge2: "surge&ver=2",
         },
         backendOptions: [{ value: "https://li.loyou23.workers.dev/sub?" }],
+        backendOptions: [{ value: "http://127.0.0.1:25500/sub?" }],
         remoteConfig: [
         {
             label: "ACL4SSR",
